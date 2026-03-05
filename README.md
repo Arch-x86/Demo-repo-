@@ -55,13 +55,14 @@ The table still has partial dependencies like Studentname and student ID depend 
 There are still transitive dependencies in the table. So we have to remove it to achieve true 3NF.
 
 # Creating a seperate staff table.
-<img src="./Diagrams/staff.png" width="500" height="400">
+
+<img src="./Figures/staff.png" width="500" height="400">
 
 # changing the club table.
-<img src="./Diagrams/Club2.png" width="500" height="400">
+<img src="./Figures/Club2.png" width="500" height="400">
 
 The whole seoperated table as one looks like this.
-<img src="./Diagrams/3NF.png" width="800" height="600">
+<img src="./Figures/3NF.png" width="800" height="600">
 
 
 
