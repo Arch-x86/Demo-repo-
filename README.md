@@ -64,5 +64,4 @@ There are still transitive dependencies in the table. So we have to remove it to
 The whole seoperated table as one looks like this.
 <img src="./Figures/3NF.png" width="800" height="600">
 
-
-
+This is the entire findings of the normalization.
